@@ -5,9 +5,19 @@ html {
 body {
 	width: 100%;
 	height: 100%;
+	font-size: 62.5%;
+	font: inherit;
 }
 #brand {
 	position: absolute;
 	top: 50%;
 	left: 50%;
+}
+#brand ul {
+	width:100%;
+	height: 20em;
+}
+#brand ul li {
+	width: 25px;
+	height: 25px;
 }
