@@ -21,6 +21,7 @@ _site
 *.vi
 *.zip
 *.scss
+*.map
 *~
 
 # OS or Editor folders
@@ -46,3 +47,4 @@ bower_components
 .sass-cache
 node_modules
 sass
+scss
