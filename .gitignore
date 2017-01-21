@@ -3,6 +3,7 @@ chj1axr0.css
 package.json
 gruntfile.js
 style.css
+koala-config.json
 
 # Ignore docs files
 _gh_pages
@@ -19,6 +20,7 @@ _site
 *.swp
 *.vi
 *.zip
+*.scss
 *~
 
 # OS or Editor folders
